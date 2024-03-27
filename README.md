@@ -5,12 +5,12 @@ I'm Foster Donkor,  a professional skilled in 📊 Data Analysis, 💼 Business 
 # About Me
 * 🔍 Data Analyst | 📊 Business Intelligence Analyst | 👨‍💼 Entrepreneur
 * 📧 Contact me: Fosterdonkor73@gmail.com
-* 💼 Connect with me on www.linkedin.com/in/foster-donkor-6184b1232
+* 💼 Connect with me on [LinkedIN](www.linkedin.com/in/foster-donkor-6184b1232)
 
 
-  # Certifications
+# Certifications
 
-  # Skills
+# Skills
 * Programming: Python 🐍, R 📊
 * Database: MySQL 🗃️
 * Visualization Tools: Tableau 📈, Power BI 🔍
