@@ -9,10 +9,8 @@ I'm Foster Donkor,  a professional skilled in 📊 Data Analysis, 💼 Business 
 
 
 ## Certifications
-* 🏅 Google Data Analytics
-  Issued by Google on Coursera
-* 🏅 Data Science For Everyone 
-  Issued by DataCamp
+* 🏅 Google Data Analytics<br>Issued by Google on Coursera
+* 🏅 Data Science For Everyone<br>Issued by DataCamp
 
   
 ## Skills
@@ -23,5 +21,4 @@ I'm Foster Donkor,  a professional skilled in 📊 Data Analysis, 💼 Business 
 
 ## Let's Connect
 I'm always open to collaboration and discussions. Feel free to reach out! 🤝
-<a href="www.linkedin.com/in/foster-donkor-6184b1232" style="background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">LinkedIn | Connect</a>
-Happy coding! 🚀😊
+<a href="www.linkedin.com/in/foster-donkor-6184b1232" style="background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">LinkedIn | Connect</a><br>Happy coding! 🚀😊
