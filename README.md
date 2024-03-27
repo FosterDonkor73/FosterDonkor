@@ -9,7 +9,11 @@ I'm Foster Donkor,  a professional skilled in 📊 Data Analysis, 💼 Business 
 
 
 # Certifications
-
+* 🏅 Google Data Analytics
+  Issued by Google on Coursera
+* 🏅 Data Science For Everyone 
+  Issued by DataCamp
+  
 # Skills
 * Programming: Python 🐍, R 📊
 * Database: MySQL 🗃️
